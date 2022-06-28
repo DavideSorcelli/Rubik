@@ -1,0 +1,15 @@
+object Versions {
+    const val kotlin = "1.6.21"
+    const val gradlePlugin = "7.2.1"
+    const val hiltAndroid = "2.38.1"
+    const val ktxCore = "1.8.0"
+    const val compose = "1.2.0-rc02"
+    const val lifecycle = "2.4.1"
+    const val material3 = "1.0.0-alpha13"
+    const val activityCompose = "1.4.0"
+    const val navigationCompose = "2.4.2"
+    const val hiltNavigationCompose = "1.0.0"
+    const val junit = "4.13.2"
+    const val androidJunit = "1.1.3"
+    const val espresso = "3.4.0"
+}
